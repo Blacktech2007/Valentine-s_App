@@ -1,5 +1,5 @@
 # Valentine-s_App
-garage
+
 Valentines Garage System developed by Rodriques Tiatus and Elly Kaendjere
 
 Getting Started
